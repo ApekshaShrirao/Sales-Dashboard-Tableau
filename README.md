@@ -1,6 +1,5 @@
 # Sales Dashboard 
 
-Project Overview
 The Sales Dashboard allows users to explore essential metrics such as Sales, Profit, and Quantity across the United States. Key filtering and segmentation capabilities provide users with the flexibility to analyze data at multiple levels, making it a valuable tool for sales and operations teams.
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/a20bd765-8835-41a5-9612-9a99b4d6193a)
